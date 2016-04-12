@@ -31,3 +31,5 @@ Voc� destruiu o meu ovo - `break`
 São as vídeos cassetadas - `def function`
 
 Logo após os reclames do plim-plim - `return`
+
+Ih, Serjão sujou, sujou - `exit()`
