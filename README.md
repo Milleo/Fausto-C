@@ -1,4 +1,4 @@
-# Ovo Programming Language
+# Fausto C Programming Language
 
 A linguagem de programação inspirada por citações e frases do glorioso apresentador Fausto Silva (aka. Faustão)
 
@@ -18,7 +18,7 @@ Tá pegando fogo bicho - `catch`
 
 Para apagar o incêndio você chama o bombeiro - `finally`
 
-? - `while`
+Jávirei inspetor, e agora? - `while`
 
 É o se vira nos trinta - `for`
 
@@ -26,7 +26,7 @@ Para apagar o incêndio você chama o bombeiro - `finally`
 
 ? - `case`
 
-? - `break`
+Voc� destruiu o meu ovo - `break`
 
 São as vídeos cassetadas - `def function`
 
