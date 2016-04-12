@@ -22,7 +22,7 @@ Este é mais um domingão do Faustão - `while`
 
 É o se vira nos trinta - `for`
 
-? - `switch`
+Tamo usando papel higienico dos dois lados - `switch`
 
 ? - `case`
 
