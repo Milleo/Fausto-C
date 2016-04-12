@@ -24,11 +24,15 @@ Este é mais um domingão do Faustão - `while`
 
 É o se vira nos trinta - `for`
 
-Tamo usando papel higienico dos dois lados - `switch`
-
-? - `case`
-
 Você destruiu o meu ovo - `break`
+
+Atenção! - `switch`
+
+Dica número / Errou - `case / break`
+
+Ninguém acertou! - `default`
+
+
 
 São as vídeos cassetadas - `def function`
 
