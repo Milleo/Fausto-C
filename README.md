@@ -31,3 +31,5 @@ Para apagar o incêndio você chama o bombeiro - `finally`
 São as vídeos cassetadas - `def function`
 
 Logo após os reclames do plim-plim - `return`
+
+Ih, Serjão sujou, sujou - `exit()`
