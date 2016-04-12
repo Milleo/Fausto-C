@@ -1,6 +1,8 @@
 # Fausto C Programming Language
 
-A linguagem de programação inspirada por citações e frases do glorioso apresentador Fausto Silva (aka. Faustão)
+A linguagem de programação baseada em Python inspirada por citações e frases do glorioso apresentador Fausto Silva (aka. Faustão) e grande poeta do cais-cais.
+
+Referência: https://github.com/lhartikk/ArnoldC
 
 ## Sintaxe
 
