@@ -6,13 +6,28 @@ A linguagem de programação inspirada por citações e frases do glorioso apres
 
 Faustão pentelho vem cá - import
 
-Aperta número 1 liga() - if()
+Dica número 1 - `if()`
 
-Tá pegando fogo bicho - else
+Errou - `else`
 
-E aí galera() - print
+E aí galera() - `print`
 
-Por falar em ovo - try
+Churrasqueria controle remoto - `try`
 
-Você destruiu o meu ovo - catch
+Tá pegando fogo bicho - `catch`
 
+Para apagar o incêndio você chama o bombeiro - `finally`
+
+? - `while`
+
+É o se vira nos 30 - `for`
+
+? - `switch`
+
+? - `case`
+
+? - `break`
+
+São as vídeos cassetadas - `def function`
+
+Logo após os reclames do plim-plim - `return`
