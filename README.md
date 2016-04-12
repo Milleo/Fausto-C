@@ -6,7 +6,7 @@ A linguagem de programação inspirada por citações e frases do glorioso apres
 
 Faustão pentelho vem cá - import
 
-Dica número 1 - `if()`
+Dica número um - `if()`
 
 Errou - `else`
 
@@ -20,7 +20,7 @@ Para apagar o incêndio você chama o bombeiro - `finally`
 
 ? - `while`
 
-É o se vira nos 30 - `for`
+É o se vira nos trinta - `for`
 
 ? - `switch`
 
