@@ -20,6 +20,4 @@ def executar():
 	dados = abrir_arquivo(sys.argv[1])
 	interpretar(dados)
 
-
-
 executar()
